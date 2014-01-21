@@ -1,4 +1,4 @@
 GlobalHotkeyLib
 ===============
 
- A C# library for registering hot keys for your applications.
+ A .NET library for registering hot keys for your applications.
