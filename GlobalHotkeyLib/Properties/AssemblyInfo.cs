@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GlobalHotkeyLib")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Fluxbytes")]
 [assembly: AssemblyProduct("GlobalHotkeyLib")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("Copyright © Fluxbytes 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
